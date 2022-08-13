@@ -1,0 +1,30 @@
+.topDiv {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-content: space-between;
+}
+.mainDiv {
+  height: 100vh;
+  width: 100%;
+  background-color: rgb(97, 97, 250);
+  
+}
+
+.form {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+.pageLogo {
+  display: flex;
+  justify-content: center;
+}
+.slider {
+  position: relative;
+  top: 5%;
+}
+/* .carousel-indicators {
+  position: relative;
+  bottom: -45px;
+} */
